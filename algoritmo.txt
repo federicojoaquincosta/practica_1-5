@@ -1,0 +1,12 @@
+1-agarrar un mate
+2-llenar el mate de yerba hasta tres cuartas partes
+3-agarrar una pava
+4-ponerle agua hasta que esté llena
+5-prender hornalla
+6-poner pava sobre el fuego
+7-retirar la pava del fuego justo antes de que hierva
+8-pasar el agua de la pava a un termo hasta que esté lleno
+9-humedecer la yerba en el mate con el agua en el termo
+10-dejar reposar el mate un minuto
+11-insertar la bombilla en el mate
+12-cebar
